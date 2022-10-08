@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7247268674
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ...Front end development
+- 🌱 I’m currently learning ...React.js
 - 💞️ I’m looking to collaborate on a new project with AngularJS
 - 📫 How to reach me -saisantoshkanumula@gmail.com
 
